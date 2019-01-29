@@ -13,7 +13,7 @@ h1{
 
 p{
     color: #33ffcc;
-    text-align: center;
+    
     font-size: 23px;
     
 }
@@ -33,6 +33,16 @@ table{
     width: 50%;
   }
 
-  .bigd{
-    
+  .velma{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 92%;
+  }
+
+  .right {
+   
+    margin-right: auto;
+   
+   
   }

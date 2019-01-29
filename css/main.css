@@ -1,0 +1,28 @@
+body{
+    background-color: #000000;
+    background-image: url("tile.jpg");
+    text-decoration-color: #33ffcc
+    
+}
+
+h1{
+    color: red;
+    text-align: center;
+    
+}
+
+p{
+    color: #33ffcc;
+    text-align: center;
+    font-size: 30px
+}
+
+table{
+    color: #33ffcc;
+    text-align: center;
+    width: 600px;
+    padding: 5px;
+    margin: 20px;
+    
+    
+}

@@ -14,7 +14,8 @@ h1{
 p{
     color: #33ffcc;
     text-align: center;
-    font-size: 30px
+    font-size: 23px;
+    
 }
 
 table{
@@ -23,6 +24,15 @@ table{
     width: 600px;
     padding: 5px;
     margin: 20px;
-    
-    
+
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .bigd{
+    
+  }

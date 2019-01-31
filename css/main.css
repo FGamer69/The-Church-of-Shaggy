@@ -40,6 +40,13 @@ table{
     width: 92%;
   }
 
+  .lines{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
   .right {
    
     margin-right: auto;
@@ -49,5 +56,25 @@ table{
   h2{
       Color: #ff0099;
       text-align: center;
-      font-size: 40px
+      font-size: 40px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 80%;
+  }
+
+  .fred{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    font-size: 35px;
+    Color: #67cbcc
+  }
+
+  .help{
+   
+    width: 43px;
+    height: 43px;
+    alt:"Shaggy's Gate"
   }
